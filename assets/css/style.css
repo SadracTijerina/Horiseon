@@ -37,7 +37,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
-header div {
+header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -45,11 +45,11 @@ header div {
   font-size: 20px;
 }
 
-header div ul {
+header nav ul {
   list-style-type: none;
 }
 
-header div ul li {
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -206,7 +206,7 @@ header div ul li {
 /*Social Media Marketing End*/
 
 /*Footer Start */
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -214,7 +214,7 @@ header div ul li {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
 /*Footer End */
